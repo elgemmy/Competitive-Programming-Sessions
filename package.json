@@ -1,0 +1,11 @@
+{
+  "name": "competitive-programming-sessions-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd website && npm run dev",
+    "build": "cd website && npm run build",
+    "start": "cd website && npm run start",
+    "lint": "cd website && npm run lint"
+  }
+}
